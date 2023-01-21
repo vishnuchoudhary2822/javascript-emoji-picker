@@ -1,5 +1,5 @@
-# FG Emoji Picker - Emoji picker created with vanilla javascript
-This is the simplest to use emoji picker built with vanilla javascript.
+# FG Emoji Picker - Emoji picker created with javascript
+This is the simplest to use emoji picker built with javascript.
 
 ![](./screenshot.png "Vanilla Javascript Emoji Picker")
 
